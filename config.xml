@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="app/220.135.57.15.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="tw.peshawa.www.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>SHOP TEST</name>
+    <name>PESHAWA</name>
     <description>WORDPRESS SHOP TEST</description>
-    <author email="chris@" href="http://220.135.57.15/wpapp">AGOTH Webmaster</author>
+    <author email="chris@" href="http://www.peshawa.com.tw">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://220.135.57.15/wpapp/" />
+    <content src="http://www.peshawa.com.tw/" />
     <access origin="*" subdomains="true" />
 </widget>
